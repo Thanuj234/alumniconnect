@@ -1,0 +1,20 @@
+
+.container {
+    display: flex;
+  }
+  
+  .header {
+  }
+  
+  .sidebar {
+  }
+  .content {
+    flex: 1;
+    padding: 20px;
+    transition: margin-left 0.3s;
+  }
+  
+  .withSidebar {
+    margin-left: 250px;
+  }
+  

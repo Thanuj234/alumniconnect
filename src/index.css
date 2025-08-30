@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  display: flex;
+  background-color: whitesmoke;
+  font-family: 'Roboto','sans-serif';
+}
+*{
+  box-sizing:border-box;
+  overflow-x:hidden;
+}
